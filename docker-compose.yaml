@@ -4,9 +4,6 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    environment:
-      - DISCORD_BOT_TOKEN=""
-      - CLOUDFLARE_API_TOKEN=""
     networks:
       - net
     restart: unless-stopped
