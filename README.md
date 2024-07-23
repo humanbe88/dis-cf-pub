@@ -1,4 +1,3 @@
-# discord-cf-bot-pub
+# dis-cf-pub
 
 Usage example : !list_dns revortx.com
-# dis-cf-pub
