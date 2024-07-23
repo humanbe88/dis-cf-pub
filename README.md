@@ -13,4 +13,3 @@
 - `!add_dns example.com A 192.168.1.1`
 - `!update_dns example.com A 192.168.1.2`
 - `!delete_dns example.com`
-"""
